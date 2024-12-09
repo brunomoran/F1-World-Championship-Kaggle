@@ -10,11 +10,7 @@ Aquest projecte del cas Kaggle de l'assignatura APC analitza els campionats del 
 
 ### Introducció
 
-Aquest repositori conté informació detallada sobre el campionat del món de F1. Les dades estan organitzades en diferents arxius CSV dins de la carpeta 
-
-data
-
-, cadascun proporcionant informació específica sobre diferents aspectes del campionat.
+Aquest repositori conté informació detallada sobre el campionat del món de F1. Les dades estan organitzades en diferents arxius CSV dins de la carpeta data, cadascun proporcionant informació específica sobre diferents aspectes del campionat.
 
 Les dades són obtingudes de [Kaggle](https://www.kaggle.com/datasets/rohanrao/formula-1-world-championship-1950-2020) i inclouen informació sobre els circuits, equips, pilots, resultats de curses, classificacions finals, temps de voltes, parades a boxes, classificacions de classificació, temporades, curses sprint i estats dels pilots.
 
@@ -23,17 +19,9 @@ Les dades són obtingudes de [Kaggle](https://www.kaggle.com/datasets/rohanrao/f
 - `circuits.csv`: Informació sobre els circuits on s'han celebrat curses de F1.
 - `constructor_results.csv`: Resultats de cada equip (constructor) en cada cursa.
 - `constructor_standings.csv`: Classificació final de cada equip (constructor) al final de cada temporada.
-- 
-
-constructors.csv
-
-: Informació sobre els equips (constructors) que han participat en temporades de F1.
+- `constructors.csv`: Informació sobre els equips (constructors) que han participat en temporades de F1.
 - `driver_standings.csv`: Classificació final de cada pilot al final de cada temporada.
-- 
-
-drivers.csv
-
-: Informació sobre els pilots que han participat en temporades de F1.
+- `drivers.csv`: Informació sobre els pilots que han participat en temporades de F1.
 - `lap_times.csv`: Temps de cada volta de cada cursa.
 - `pit_stops.csv`: Informació sobre les parades a boxes de cada cursa.
 - `qualifying.csv`: Resultats de la sessió de classificació de cada cursa.
@@ -86,6 +74,3 @@ f1.ipynb
 
 Les contribucions són benvingudes. Si voleu contribuir, si us plau, feu un fork del repositori, creeu una branca amb les vostres modificacions i envieu un pull request.
 
-### Llicència
-
-Aquest projecte està llicenciat sota la llicència MIT. Vegeu el fitxer `LICENSE` per a més detalls.
