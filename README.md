@@ -50,11 +50,7 @@ Les dades són obtingudes de [Kaggle](https://www.kaggle.com/datasets/rohanrao/f
    git clone https://github.com/brunomoran/F1-World-Championship-Kaggle.git
    cd F1-World-Championship-Kaggle
    ```
-2. Executeu el notebook 
-
-f1.ipynb
-
- per veure les anàlisis i prediccions.
+2. Executeu el notebook `f1.ipynb` per veure les anàlisis i prediccions.
 
 ### Conclusions
 
